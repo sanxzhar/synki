@@ -1,0 +1,8 @@
+1. Add SuperBase connection via Prisma
+2. Store UserInfo in SuperBase when sign in
+3. Add Generate Button in Dashboard
+4. Modify UserInfo when Generate Button Added
+5. Add LiveBlocks support on room generate, enters to room with userInfo 
+6. Add Invite Button to the Room 
+7. Sign In or miniForm Page for new User/Collaborator 
+8. Improve css in all places 
