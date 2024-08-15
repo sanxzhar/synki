@@ -12,7 +12,3 @@ const Page = async () => {
 };
 
 export default Page;
-
-// TODO:
-// Sign in via Github Auth from auth.js
-// if there is already session then redirect user to dashboard page
